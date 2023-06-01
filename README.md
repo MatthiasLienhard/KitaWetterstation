@@ -1,4 +1,7 @@
 # KitaWetterstation
 Weather station with animations for Kindergarden
+This video shows the weather station in action: https://youtu.be/sKCQWrAyeEQ
 
-This (video)[https://youtu.be/sKCQWrAyeEQ] shows the weather station in action. 
+# Function
+
+# Komponents
