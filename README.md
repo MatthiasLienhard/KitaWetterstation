@@ -1,4 +1,4 @@
-[![Licence: MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/MatthiasLienhard/KitaWetterstation/blob/master/LICENSE.txt)
+[![Licence: MIT](https://img.shields.io/badge/license-MIT-blue)](https://github.com/MatthiasLienhard/KitaWetterstation/blob/main/LICENSE.txt)
 <img align="right" src="KitaWeatherstation.png" width="300"  />
 
 # KitaWetterstation
