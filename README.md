@@ -2,8 +2,9 @@
 <img align="right" src="KitaWeatherstation.png" width="300"  />
 
 # KitaWetterstation
-Weather station with animations for kindergarden
+Weather station with animations for kindergarden.
 This video shows the weather station in action: https://youtu.be/sKCQWrAyeEQ
+The 3d model files are also on thingiverse: https://www.thingiverse.com/thing:6057646
 
 # Function
 A press on the button wakes the ESP32 from deep sleep. It connects to wifi, and displays an animation with the LEDs and pointer. After wifi is established, the DWD weather API is queried for the current local weather information. This information is evaluated into 5 categories, mainly on temperature and rainfall. The category is displayed with the pointer, and corresponding clothing lights up. The OLED display also shows the weather information with an icon, and the exact temperature. Further it used to display battery state and issues, such as problems with the wifi connection. 
